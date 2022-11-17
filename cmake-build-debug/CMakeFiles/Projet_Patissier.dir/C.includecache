@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+W:/Projet_Patissier/patissier.c
+patissier.h
+W:/Projet_Patissier/patissier.h
+stdio.h
+-
+malloc.h
+-
+string.h
+-
+
+W:/Projet_Patissier/patissier.h
+
